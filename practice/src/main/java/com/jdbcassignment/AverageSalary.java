@@ -13,6 +13,8 @@ public class AverageSalary {
 		String dusername = "SYSTEM";
 		String dpassword = "suba152";
 		
+		System.out.println("cloned by swetha ");
+		
 		try {
 			Class.forName("oracle.jdbc.driver.OracleDriver");
 		}
